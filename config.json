@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpecrypt",
+        "uuid": 9321375,
+        "checksum": "pzugjs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
